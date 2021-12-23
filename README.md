@@ -10,3 +10,4 @@ A bot created to respond to Discord messages in real-time. Built with Javascript
 - Javascript
 
 ## SCREENSHOTS
+![Screen1](https://github.com/kyledeguzmanx/fDev-Bot-DiscordBot1/blob/main/images/screen1.png)
